@@ -11,7 +11,7 @@ ko_TMRvsko_3d_deg_all: previous analyzed data with all of the genes in konckout 
 
 ko_bTMRvsWT_bTMR_deg_all: previous analyzed data with all genes in konckout model tumor and WT tumor
 
-volcano data finalization: unfinshed project outcome
+Assignment file: unfinshed project outcome
 
 Scientific Question: What's the candidate genes that are significant in both our vivo models and clinical samples that can be used for prediction of disease course?
 
