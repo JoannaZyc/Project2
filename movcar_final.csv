@@ -1,0 +1,679 @@
+query,entrezgene,name,symbol,alias,taxid,MGI
+A4GALT,239559,"alpha 1,4-galactosyltransferase",A4galt,,10090,MGI:3512453
+AI838599,,expressed sequence AI838599,AI838599,,10090,
+AACS,78894,acetoacetyl-CoA synthetase,Aacs,"2210408B16Rik, SUR5",10090,MGI:1926144
+AASS,30956,aminoadipate-semialdehyde synthase,Aass,"LKR, LKR/SDH, LOR, LOR/SDH, Lorsdh",10090,MGI:1353573
+ABCA4,11304,"ATP-binding cassette, sub-family A (ABC1), member 4",Abca4,"AW050280, Abc10, Abcr, D430003I15Rik, RmP",10090,MGI:109424
+ABCA5,217265,"ATP-binding cassette, sub-family A (ABC1), member 5",Abca5,"ABC13, B930033A02Rik, mKIAA1888",10090,MGI:2386607
+ABCA6,76184,"ATP-binding cassette, sub-family A (ABC1), member 6",Abca6,6330565N06Rik,10090,MGI:1923434
+ABCA9,217262,"ATP-binding cassette, sub-family A (ABC1), member 9",Abca9,D630040K07Rik,10090,MGI:2386796
+ABCB1B,18669,"ATP-binding cassette, sub-family B (MDR/TAP), member 1B",Abcb1b,"Abcb1, Mdr1, Mdr1b, Pgy-1, Pgy1",10090,MGI:97568
+ABCC12,244562,"ATP-binding cassette, sub-family C (CFTR/MRP), member 12",Abcc12,"4930467B22Rik, MRP9",10090,MGI:2441679
+ACAA1B,235674,acetyl-Coenzyme A acyltransferase 1B,Acaa1b,,10090,MGI:3605455
+ACKR4,252837,atypical chemokine receptor 4,Ackr4,"A630091E18Rik, CCBP2, CCR11, CCX-CKR, CCX-CKR1",10090,MGI:2181676
+ACTA2,11475,"actin alpha 2, smooth muscle, aorta",Acta2,"0610041G09Rik, Actvs, SMAalpha, SMalphaA, a-SMA",10090,MGI:87909
+ACTR3B,242894,ARP3 actin-related protein 3B,Actr3b,"9630005C02, ARP11, AW047569, Arp3b, Arp3beta",10090,MGI:2661120
+ADAM19,11492,a disintegrin and metallopeptidase domain 19 (meltrin beta),Adam19,"AL024287, MADDAM, MTLNB, Mltnb",10090,MGI:105377
+ADAMTS15,235130,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 15",Adamts15,,10090,MGI:2449569
+ADAMTS2,216725,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 2",Adamts2,"ADAM-TS 2, ADAM-TS2, ADAMTS-2, PC I-NP, PCINP",10090,MGI:1347356
+ADAMTSL4,229595,ADAMTS-like 4,Adamtsl4,"ADAMTSL-4, Tsrc1",10090,MGI:2389008
+ADCY3,104111,adenylate cyclase 3,Adcy3,"AC3, ACIII, mKIAA0511",10090,MGI:99675
+ADCY7,11513,adenylate cyclase 7,Adcy7,AA407758,10090,MGI:102891
+ADGRA2,78560,adhesion G protein-coupled receptor A2,Adgra2,"8430414O08Rik, 9530074E10Rik, Gpr124, Tem5, mKIAA1531",10090,MGI:1925810
+ADGRB2,230775,adhesion G protein-coupled receptor B2,Adgrb2,Bai2,10090,MGI:2451244
+AEBP1,11568,AE binding protein 1,Aebp1,ACLP,10090,MGI:1197012
+AFF3,16764,"AF4/FMR2 family, member 3",Aff3,"3222402O04Rik, A730046J16, LAF-4, Laf4",10090,MGI:106927
+AGAP2,216439,"ArfGAP with GTPase domain, ankyrin repeat and PH domain 2",Agap2,"AGAP-2, Centg1, PIKE, cnt-g1, mKIAA0167",10090,MGI:3580016
+AGRN,11603,agrin,Agrn,"Agrin, nmf380",10090,MGI:87961
+AK4,11639,adenylate kinase 4,Ak4,"AK 4, Ak-3, Ak-4, Ak3, Ak3l1",10090,MGI:87979
+ALOX12,11684,arachidonate 12-lipoxygenase,Alox12,"9930022G08Rik, Alox12p, P-12LO",10090,MGI:87998
+AMDHD1,71761,amidohydrolase domain containing 1,Amdhd1,1300019J08Rik,10090,MGI:1919011
+AMPD3,11717,adenosine monophosphate deaminase 3,Ampd3,,10090,MGI:1096344
+ANGPTL7,654812,angiopoietin-like 7,Angptl7,,10090,MGI:3605801
+ANK3,11735,"ankyrin 3, epithelial",Ank3,"2900054D09Rik, AI314020, Ank-3, AnkG, Ankyrin-3",10090,MGI:88026
+ANO4,320091,anoctamin 4,Ano4,"A330096O15Rik, Gm65, Tmem16d",10090,MGI:2443344
+APCDD1,494504,adenomatosis polyposis coli down-regulated 1,Apcdd1,"AB023957, AU041258, Drapc1, EIG180",10090,MGI:3513977
+APLN,30878,apelin,Apln,"6030430G11Rik, Apel",10090,MGI:1353624
+APOL9A,223672,apolipoprotein L 9a,Apol9a,,10090,MGI:3606001
+APOL9B,71898,apolipoprotein L 9b,Apol9b,2310016F22Rik,10090,MGI:1919148
+APP,11820,amyloid beta (A4) precursor protein,App,"Abeta, Abpp, Adap, Ag, Cvap",10090,MGI:88059
+APRT-PS,621377,"adenine phosphoribosyl transferase, pseudogene",Aprt-ps,,10090,MGI:88062
+ARHGAP22,239027,Rho GTPase activating protein 22,Arhgap22,"B230341L19Rik, RHOGAP2, p68RacGAP",10090,MGI:2443418
+ARHGDIB,11857,"Rho, GDP dissociation inhibitor (GDI) beta",Arhgdib,"D4, Gdid4, Ly-GDI",10090,MGI:101940
+ARSB,11881,arylsulfatase B,Arsb,"1110007C02Rik, AI480648, As-1, As-1r, As-1s",10090,MGI:88075
+ASIC2,11418,acid-sensing (proton-gated) ion channel 2,Asic2,"ACIC2, Accn1, BNC1, BNaC1, BNaC1a",10090,MGI:1100867
+ASIC4,241118,acid-sensing (proton-gated) ion channel family member 4,Asic4,"Accn4, BNAC4",10090,MGI:2652846
+ATF7IP2,75329,activating transcription factor 7 interacting protein 2,Atf7ip2,"4930558K11Rik, BC018510, Get-1, PSM2",10090,MGI:1922579
+ATP7B,11979,"ATPase, Cu++ transporting, beta polypeptide",Atp7b,"Atp7a, WND, tx",10090,MGI:103297
+ATP8A2,50769,"ATPase, aminophospholipid transporter-like, class I, type 8A, member 2",Atp8a2,"AI415030, Atpc1b, agil, wl",10090,MGI:1354710
+B3GALNT1,26879,"UDP-GalNAc:betaGlcNAc beta 1,3-galactosaminyltransferase, polypeptide 1",B3galnt1,"B3galt3, b3GT3",10090,MGI:1349405
+B3GNT3,72297,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3",B3gnt3,2210008L19Rik,10090,MGI:2152535
+B4GALNT1,14421,"beta-1,4-N-acetyl-galactosaminyl transferase 1",B4galnt1,"4933429D13Rik, Gal-NAc-T, GalNAc-T, GalNAcT, Galgt1",10090,MGI:1342057
+BACE2,56175,beta-site APP-cleaving enzyme 2,Bace2,"1110059C24Rik, AEPLC, AI850424, ALP56, ARP1",10090,MGI:1860440
+BAMBI,68010,BMP and activin membrane-bound inhibitor,Bambi,2610003H06Rik,10090,MGI:1915260
+BASP1,70350,"brain abundant, membrane attached signal protein 1",Basp1,"2610024P12Rik, CAP-23, CAP23, Ckap3, NAP-22",10090,MGI:1917600
+BEGAIN,380785,brain-enriched guanylate kinase-associated,Begain,"BM948371, Gm897",10090,MGI:3044626
+BGN,12111,biglycan,Bgn,"BG, DSPG1, PG-S1, PGI, SLRR1A",10090,MGI:88158
+BHLHE22,59058,"basic helix-loop-helix family, member e22",Bhlhe22,"Beta3, Beta3a, Bhlhb5",10090,MGI:1930001
+BICC1,83675,BicC family RNA binding protein 1,Bicc1,"Bic-C, bpk, jcpk",10090,MGI:1933388
+BLNK,17060,B cell linker,Blnk,"BASH, Bca, Ly-57, Ly57, Lyw-57",10090,MGI:96878
+BMF,171543,BCL2 modifying factor,Bmf,"AW260063, AW411872",10090,MGI:2176433
+BMP4,12159,bone morphogenetic protein 4,Bmp4,"Bmp-4, Bmp2b, Bmp2b-1, Bmp2b1",10090,MGI:88180
+BNC2,242509,basonuclin 2,Bnc2,"5031434M05Rik, 8430420F16Rik",10090,MGI:2443805
+BST2,69550,bone marrow stromal cell antigen 2,Bst2,"2310015I10Rik, Bst-2, C87040, CD317, DAMP-1",10090,MGI:1916800
+BTBD17,72014,BTB (POZ) domain containing 17,Btbd17,"1500005I02Rik, Tango10a",10090,MGI:1919264
+C2CD2,207781,C2 calcium-dependent domain containing 2,C2cd2,"5730563M15, 5830404H04Rik, AI314146, AI449533, BF168443",10090,MGI:1891883
+C3,12266,complement component 3,C3,"AI255234, ASP, HSE-MSF, Plp",10090,MGI:88227
+C4B,12268,complement component 4B (Chido blood group),C4b,"C4, Ss",10090,MGI:88228
+CABLES1,63955,CDK5 and Abl enzyme substrate 1,Cables1,"Cables, ik3-1",10090,MGI:1927065
+CACHD1,320508,cache domain containing 1,Cachd1,"1190007F10Rik, AI852726, B430218L07Rik, Vwcd1, mKIAA1573",10090,MGI:2444177
+CACNA1G,12291,"calcium channel, voltage-dependent, T type, alpha 1G subunit",Cacna1g,"Cav3.1d, [a]1G, a1G, alpha-1G, mKIAA1123",10090,MGI:1201678
+CACNA2D3,12294,"calcium channel, voltage-dependent, alpha2/delta subunit 3",Cacna2d3,"Cacnad3, alapha2delta3",10090,MGI:1338890
+CALML4,75600,calmodulin-like 4,Calml4,2010002G05Rik,10090,MGI:1922850
+CAMK4,12326,calcium/calmodulin-dependent protein kinase IV,Camk4,"A430110E23Rik, AI666733, CaMKIV, CaMKIV/Gr, D18Bwg0362e",10090,MGI:88258
+CAMTA1,100072,calmodulin binding transcription activator 1,Camta1,"1810059M14Rik, 2310058O09Rik, AI316882, AW987475, mKIAA0833",10090,MGI:2140230
+CAR12,76459,carbonic anhydrase 12,Car12,"2310047E01Rik, AI314958, CA-XII, Ca12",10090,MGI:1923709
+CAR9,230099,carbonic anhydrase 9,Car9,"CAIX, Ca9, MN/CA9",10090,MGI:2447188
+CASP12,12364,caspase 12,Casp12,,10090,MGI:1312922
+CASP4,12363,"caspase 4, apoptosis-related cysteine peptidase",Casp4,"CASP-11, CASP-4, Casp11, Caspl, ich-3",10090,MGI:107700
+CAV1,12389,"caveolin 1, caveolae protein",Cav1,"Cav, Cav-1",10090,MGI:102709
+CCDC149,100503884,coiled-coil domain containing 149,Ccdc149,Gm447,10090,MGI:2685293
+CCDC80,67896,coiled-coil domain containing 80,Ccdc80,"2610001E17Rik, DRO1, Ssg1, Urb",10090,MGI:1915146
+CCDC85A,216613,coiled-coil domain containing 85A,Ccdc85a,,10090,MGI:2445069
+CCL2,20296,chemokine (C-C motif) ligand 2,Ccl2,"AI323594, HC11, JE, MCAF, MCP-1",10090,MGI:98259
+CCL5,20304,chemokine (C-C motif) ligand 5,Ccl5,"MuRantes, RANTES, SISd, Scya5, TCP228",10090,MGI:98262
+WISP1,22402,cellular communication network factor 4,Ccn4,"AW146261, Elm1, Wisp1",10090,MGI:1197008
+CCND1,12443,cyclin D1,Ccnd1,"AI327039, CycD1, Cyl-1, PRAD1, bcl-1",10090,MGI:88313
+CD14,12475,CD14 antigen,Cd14,,10090,MGI:88318
+CD248,70445,"CD248 antigen, endosialin",Cd248,"2610111G01Rik, AI842296, Cd164l1, Tem1",10090,MGI:1917695
+CD300A,217303,CD300A molecule,Cd300a,"B230315M08Rik, Clm8, LMIR1, MAIR-1, MAIR-I",10090,MGI:2443411
+CD44,12505,CD44 antigen,Cd44,"AU023126, AW121933, AW146109, HERMES, Ly-24",10090,MGI:88338
+CD55,13136,"CD55 molecule, decay accelerating factor for complement",Cd55,"Daf, Daf-GPI, Daf1, GPI-DAF",10090,MGI:104850
+GM15674,102640368,"CD55 molecule, opposite strand sequence",Cd55os,Gm15674,10090,MGI:3783116
+CDC42EP2,104252,CDC42 effector protein (Rho GTPase binding) 2,Cdc42ep2,"1110008C05Rik, Borg1, Cep2, D19Bwg1013e",10090,MGI:1929744
+CDCA7L,217946,cell division cycle associated 7 like,Cdca7l,"BC006933, JPO2",10090,MGI:2384982
+CDH11,12552,cadherin 11,Cdh11,"Cad11, OSF-4",10090,MGI:99217
+CDH3,12560,cadherin 3,Cdh3,"AI385538, Cadp, Cdhp, P-cadherin, Pcad",10090,MGI:88356
+CELSR2,53883,"cadherin, EGF LAG seven-pass G-type receptor 2",Celsr2,"Adgrc2, EGFL2, Flamingo1, flamingo, mKIAA0279",10090,MGI:1858235
+CES1D,104158,carboxylesterase 1D,Ces1d,"Ces3, TGH",10090,MGI:2148202
+CES2G,72361,carboxylesterase 2G,Ces2g,"2210023G05Rik, Ces2l",10090,MGI:1919611
+CFAP69,207686,cilia and flagella associated protein 69,Cfap69,"4921525K03, A330021E22Rik, AI427898",10090,MGI:2443778
+CFH,12628,complement component factor h,Cfh,"Mud-1, NOM, Sas-1, Sas1",10090,MGI:88385
+CFTR,12638,cystic fibrosis transmembrane conductance regulator,Cftr,"AW495489, Abcc7",10090,MGI:88388
+MB21D1,214763,cyclic GMP-AMP synthase,Cgas,"E330016A19Rik, Mb21d1",10090,MGI:2442261
+CHCHD6,66098,coiled-coil-helix-coiled-coil-helix domain containing 6,Chchd6,"0710001P09Rik, 1700021B03Rik, Micos25",10090,MGI:1913348
+CHST1,76969,carbohydrate sulfotransferase 1,Chst1,"2610008E20Rik, AW125896, C6ST, GST-1, Gst1",10090,MGI:1924219
+CHSY1,269941,chondroitin sulfate synthase 1,Chsy1,skt,10090,MGI:2681120
+CKAP4,216197,cytoskeleton-associated protein 4,Ckap4,"5630400A09Rik, CLIMP-63, P63",10090,MGI:2444926
+CLDN15,60363,claudin 15,Cldn15,"2210009B08Rik, BB107105",10090,MGI:1913103
+CLIP4,78785,"CAP-GLY domain containing linker protein family, member 4",Clip4,"1700024K14Rik, 1700074B05Rik, 4833417L20Rik, 5830409B12Rik, Rsnl2",10090,MGI:1919100
+CLU,12759,clusterin,Clu,"AI893575, ApoJ, Cli, D14Ucla3, SP-40",10090,MGI:88423
+CMKLR1,14747,chemokine-like receptor 1,Cmklr1,"ChemR23, DEZ, Gpcr27, mcmklr1",10090,MGI:109603
+CMPK2,22169,"cytidine monophosphate (UMP-CMP) kinase 2, mitochondrial",Cmpk2,"1200004E04Rik, TDKI, Tyki",10090,MGI:99830
+CNKSR3,215748,Cnksr family member 3,Cnksr3,"6820402C05, BC024086, Magi1",10090,MGI:2674130
+CNTLN,338349,"centlein, centrosomal protein",Cntln,"AI448092, B430108F07Rik, D530005L17Rik",10090,MGI:2443104
+CNTN2,21367,contactin 2,Cntn2,"D130012K04Rik, TAG-1, TAG1, Tax",10090,MGI:104518
+CNTNAP2,66797,contactin associated protein-like 2,Cntnap2,"5430425M22Rik, Caspr2, mKIAA0868",10090,MGI:1914047
+COL12A1,12816,"collagen, type XII, alpha 1",Col12a1,,10090,MGI:88448
+COL16A1,107581,"collagen, type XVI, alpha 1",Col16a1,"2700007F12Rik, A530052M23Rik, AI838662, CA1F",10090,MGI:1095396
+COL18A1,12822,"collagen, type XVIII, alpha 1",Col18a1,,10090,MGI:88451
+COL1A1,12842,"collagen, type I, alpha 1",Col1a1,"Col1a-1, Cola-1, Cola1, Mov-13, Mov13",10090,MGI:88467
+COL1A2,12843,"collagen, type I, alpha 2",Col1a2,"AA960264, AI325291, Col1a-2, Cola-2, Cola2",10090,MGI:88468
+COL3A1,12825,"collagen, type III, alpha 1",Col3a1,"AW550625, Col3a-1, Tsk-2, Tsk2",10090,MGI:88453
+COL4A4,12829,"collagen, type IV, alpha 4",Col4a4,"E130010M05Rik, [a]4(IV)",10090,MGI:104687
+COL5A1,12831,"collagen, type V, alpha 1",Col5a1,AI413331,10090,MGI:88457
+COL5A2,12832,"collagen, type V, alpha 2",Col5a2,1110014L14Rik,10090,MGI:88458
+COL6A1,12833,"collagen, type VI, alpha 1",Col6a1,"AI747156, Col6a-1",10090,MGI:88459
+COLEC12,140792,collectin sub-family member 12,Colec12,"CL-P1, SRCL, Scara4",10090,MGI:2152907
+COLGALT2,269132,collagen beta(1-O)galactosyltransferase 2,Colgalt2,"AI427652, D730024P12, Glt25d2",10090,MGI:2138232
+CORO2A,107684,"coronin, actin binding protein 2A",Coro2a,"9030208C03Rik, AI563590, IR10",10090,MGI:1345966
+CRIP1,12925,cysteine-rich protein 1 (intestinal),Crip1,"CRHP, CRP1, Crip",10090,MGI:88501
+CRISPLD2,78892,cysteine-rich secretory protein LCCL domain containing 2,Crispld2,"1810049K24Rik, Lcrisp2, Lgl1, coffeecrisp",10090,MGI:1926142
+CRLF1,12931,cytokine receptor-like factor 1,Crlf1,"CLF-1, CRLM-3, CRLM3, NR6, NR6.1",10090,MGI:1340030
+CTSH,13036,cathepsin H,Ctsh,AL022844,10090,MGI:107285
+CTSO,229445,cathepsin O,Ctso,"A330105D01Rik, AI118514",10090,MGI:2139628
+CXCL10,15945,chemokine (C-X-C motif) ligand 10,Cxcl10,"C7, CRG-2, INP10, IP-10, IP10",10090,MGI:1352450
+CXCL14,57266,chemokine (C-X-C motif) ligand 14,Cxcl14,"1110031L23Rik, 1200006I23Rik, AI414372, BMAC, BRAK",10090,MGI:1888514
+CYP7B1,13123,"cytochrome P450, family 7, subfamily b, polypeptide 1",Cyp7b1,"AW261589, D3Ertd552e, hct-1",10090,MGI:104978
+FAM49A,76820,CYFIP related Rac1 interactor A,Cyria,"2410157M17Rik, 9630047E15, D12Ertd553e, Fam49a",10090,MGI:1261783
+CYS1,12879,cystin 1,Cys1,"2900006B19Rik, AV218859, Ccap, ck, cpk",10090,MGI:2177632
+DCLK1,13175,doublecortin-like kinase 1,Dclk1,"1700113D08Rik, 2810480F11Rik, AI836758, Click-I, Cpg16",10090,MGI:1330861
+DCLK2,70762,doublecortin-like kinase 2,Dclk2,"6330415M09Rik, AU044875, CL2, CLICK2, Click-II",10090,MGI:1918012
+DDX58,230073,DEAD/H box helicase 58,Ddx58,"6430573D20Rik, C330021E21, RIG-I, RLR-1",10090,MGI:2442858
+DDX60,234311,DExD/H box helicase 60,Ddx60,9830118M07,10090,MGI:2384570
+DENND2C,329727,DENN/MADD domain containing 2C,Dennd2c,A930010I20Rik,10090,MGI:3036254
+DENND2D,72121,DENN/MADD domain containing 2D,Dennd2d,"2010308M01Rik, AI451421",10090,MGI:2181193
+DHCR24,74754,24-dehydrocholesterol reductase,Dhcr24,"2310076D10Rik, 5830417J06Rik, mKIAA0018",10090,MGI:1922004
+DLX1,13390,distal-less homeobox 1,Dlx1,"Dlx, Dlx-1",10090,MGI:94901
+DMBX1,140477,diencephalon/mesencephalon homeobox 1,Dmbx1,"Atx, Cdmx, Mbx, Otx3",10090,MGI:2153518
+DMPK,13400,dystrophia myotonica-protein kinase,Dmpk,"DM, DMK, Dm15, MDPK, MT-PK",10090,MGI:94906
+DNAH7B,227058,"dynein, axonemal, heavy chain 7B",Dnah7b,"Dnahc7b, Gm107",10090,MGI:2684953
+DPYSL3,22240,dihydropyrimidinase-like 3,Dpysl3,"CRMP-4, DRP-3, TUC4, ULIP-1, Ulip",10090,MGI:1349762
+DTX3L,209200,"deltex 3-like, E3 ubiquitin ligase",Dtx3l,"AU042200, BC023741",10090,MGI:2656973
+DYRK2,69181,dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 2,Dyrk2,1810038L18Rik,10090,MGI:1330301
+ECM1,13601,extracellular matrix protein 1,Ecm1,"AI663821, p85",10090,MGI:103060
+EDNRA,13617,endothelin receptor type A,Ednra,"AEA001, ET-AR, ETa, Gpcr10, Mhdaaea1",10090,MGI:105923
+EFNA1,13636,ephrin A1,Efna1,"AI325262, B61, Efl1, Epl1, Eplg1",10090,MGI:103236
+EFNB2,13642,ephrin B2,Efnb2,"ELF-2, Epl5, Eplg5, Htk-L, LERK-5",10090,MGI:105097
+EFR3B,668212,EFR3 homolog B,Efr3b,"AI852640, C030014M07Rik, mKIAA0953",10090,MGI:2444851
+EGFL7,353156,EGF-like domain 7,Egfl7,"VE-statin, Zneu1",10090,MGI:2449923
+EGLN3,112407,egl-9 family hypoxia-inducible factor 3,Egln3,"2610021G09Rik, AI505553, AI648162, Hif-p4h-3, Phd3",10090,MGI:1932288
+EIF4E3,66892,eukaryotic translation initiation factor 4E member 3,Eif4e3,"1300018P11Rik, AI451927, eIF4E-3",10090,MGI:1914142
+ELAVL2,15569,ELAV like RNA binding protein 1,Elavl2,"Hub, mel-N1",10090,MGI:1100887
+ELN,13717,elastin,Eln,"AI385707, AI480567, E030024M20Rik",10090,MGI:95317
+ELOVL6,170439,"ELOVL family member 6, elongation of long chain fatty acids (yeast)",Elovl6,"C77826, FAE, LCE",10090,MGI:2156528
+EMILIN1,100952,elastin microfibril interfacer 1,Emilin1,"5830419M17Rik, AW229038, BB105748, EMILIN-1, gp115",10090,MGI:1926189
+EMX2,13797,empty spiracles homeobox 2,Emx2,Pdo,10090,MGI:95388
+ENDOD1,71946,endonuclease domain containing 1,Endod1,"2210414F18Rik, 2310067E08Rik, C85344",10090,MGI:1919196
+ENO1,13806,"enolase 1, alpha non-neuron",Eno1,"AL022784, Eno-1, MBP-1, NNE",10090,MGI:95393
+ENO1B,433182,"enolase 1B, retrotransposed",Eno1b,"EG433182, Eno-1, Eno1, Gm5506, NNE",10090,MGI:3648653
+ENPP3,209558,ectonucleotide pyrophosphatase/phosphodiesterase 3,Enpp3,"AI876438, CD203c",10090,MGI:2143702
+ENPP6,320981,ectonucleotide pyrophosphatase/phosphodiesterase 6,Enpp6,"4833421B01Rik, B830047L21Rik, D8Ertd514e, E-NPP 6, GPC-Cpde",10090,MGI:2445171
+EPDR1,105298,ependymin related protein 1 (zebrafish),Epdr1,"AU040950, AV006210, Epdm2, Epdr2, MERP-1",10090,MGI:2145369
+ERO1L,50527,endoplasmic reticulum oxidoreductase 1 alpha,Ero1a,"ERO1-L, Ero1l",10090,MGI:1354385
+ESR1,13982,estrogen receptor 1 (alpha),Esr1,"ER, ER-alpha, ERa, ERalpha, ESR",10090,MGI:1352467
+ESX1,13984,"extraembryonic, spermatogenesis, homeobox 1",Esx1,Spx1,10090,MGI:1096388
+ESYT3,272636,extended synaptotagmin-like protein 3,Esyt3,"D930024E11, D9Ertd280e, Fam62c, mKIAA4186",10090,MGI:1098699
+EVL,14026,Ena-vasodilator stimulated phosphoprotein,Evl,"AI528774, b2b2600Clo",10090,MGI:1194884
+EXOC3L2,74463,exocyst complex component 3-like 2,Exoc3l2,"4933417E01Rik, AU042655, Gm19857",10090,MGI:1921713
+F2R,14062,coagulation factor II (thrombin) receptor,F2r,"AI482343, Cf2r, Par1, ThrR",10090,MGI:101802
+FAAH,14073,fatty acid amide hydrolase,Faah,AW412498,10090,MGI:109609
+FAM110B,242297,"family with sequence similarity 110, member B",Fam110b,"1700012H17Rik, 5031405P22, AW049855",10090,MGI:1916593
+FAM110C,104943,"family with sequence similarity 110, member C",Fam110c,"9030611O19Rik, AU019489",10090,MGI:1918813
+FAM124A,629059,"family with sequence similarity 124, member A",Fam124a,EG629059,10090,MGI:3645930
+FAM131B,76156,"family with sequence similarity 131, member B",Fam131b,"6330503C03Rik, 6530406I18Rik, AV277466",10090,MGI:1923406
+FAM171A1,269233,"family with sequence similarity 171, member A1",Fam171a1,"9630050M13Rik, AA409679",10090,MGI:2442917
+FAM189A2,381217,"family with sequence similarity 189, member A2",Fam189a2,"AI414343, AI666772, Gm967",10090,MGI:2685813
+FAM20C,80752,"FAM20C, golgi associated secretory pathway kinase",Fam20c,"C76981, DMP-4, DMP4, GEF-CK, mKIAA4081",10090,MGI:2136853
+FAM217B,71532,"family with sequence similarity 217, member B",Fam217b,"9030418K01Rik, AI851938",10090,MGI:1918782
+FAS,14102,Fas (TNF receptor superfamily member 6),Fas,"AI196731, APO1, APT1, CD95, TNFR6",10090,MGI:95484
+FASN,14104,fatty acid synthase,Fasn,"A630082H08Rik, FAS",10090,MGI:95485
+FBLN1,14114,fibulin 1,Fbln1,,10090,MGI:95487
+FCGR3,14131,"Fc receptor, IgG, low affinity III",Fcgr3,CD16,10090,MGI:95500
+FCHO1,74015,FCH domain only 1,Fcho1,"3322402E17Rik, N28152",10090,MGI:1921265
+FDPS,110196,farnesyl diphosphate synthetase,Fdps,"6030492I17Rik, AI256750, Fdpsl1, mKIAA1293",10090,MGI:104888
+FGF1,14164,fibroblast growth factor 1,Fgf1,"Dffrx, Fam, Fgf-1, Fgf2b, Fgfa",10090,MGI:95515
+FGF16,80903,fibroblast growth factor 16,Fgf16,Fgf4c,10090,MGI:1931627
+FGF9,14180,fibroblast growth factor 9,Fgf9,"Eks, Fgf4b",10090,MGI:104723
+FHDC1,229474,FH2 domain containing 1,Fhdc1,"6330505N24Rik, Gm126",10090,MGI:2684972
+FILIP1L,78749,filamin A interacting protein 1-like,Filip1l,"4631422O05Rik, Doc1",10090,MGI:1925999
+FMNL1,57778,formin-like 1,Fmnl1,"8030453N10Rik, AI553564, Fmnl, Fnrl, Frls",10090,MGI:1888994
+FMO2,55990,flavin containing monooxygenase 2,Fmo2,"2310008D08Rik, 2310042I22Rik, AW107733",10090,MGI:1916776
+FN1,14268,fibronectin 1,Fn1,"E330027I09, Fn, Fn-1",10090,MGI:95566
+FOSL2,14284,fos-like antigen 2,Fosl2,Fra-2,10090,MGI:102858
+FOXO1,56458,forkhead box O1,Foxo1,"AI876417, Afxh, FKHR, Fkhr1, Foxo1a",10090,MGI:1890077
+FRAS1,231470,Fraser extracellular matrix complex subunit 1,Fras1,"E130113P14Rik, bl, mKIAA1500",10090,MGI:2385368
+FRMD6,319710,FERM domain containing 6,Frmd6,"2610019M19Rik, 4930488L10Rik, AW212977, Willin",10090,MGI:2442579
+FRY,320365,FRY microtubule binding protein,Fry,"13CDNA73, 9330186A19Rik, AF346502, AI462658, C87180",10090,MGI:2443895
+FRZB,20378,frizzled-related protein,Frzb,"Frp, Sfrp3, frezzled, fritz, frzb-1",10090,MGI:892032
+FSD1,240121,fibronectin type 3 and SPRY domain-containing protein,Fsd1,,10090,MGI:1934858
+FSTL1,14314,follistatin-like 1,Fstl1,"AI316791, AW107808, Fstl, TSC-36",10090,MGI:102793
+FUT8,53618,fucosyltransferase 8,Fut8,,10090,MGI:1858901
+FYB2,242594,FYN binding protein 2,Fyb2,"1700024P16Rik, ARAP, C1orf168, Gm620",10090,MGI:2685466
+GABRA3,14396,"gamma-aminobutyric acid (GABA) A receptor, subunit alpha 3",Gabra3,Gabra-3,10090,MGI:95615
+GAREM2,242915,GRB2 associated regulator of MAPK1 subtype 2,Garem2,"Fam59b, Gareml, Gm444",10090,MGI:2685290
+GATA2,14461,GATA binding protein 2,Gata2,Gata-2,10090,MGI:95662
+GATA5,14464,GATA binding protein 5,Gata5,,10090,MGI:109497
+GBP2,14469,guanylate binding protein 2,Gbp2,,10090,MGI:102772
+GBP3,55932,guanylate binding protein 3,Gbp3,"AW228655, GBP-3, GBP-4, Gbp4",10090,MGI:1926263
+GBP7,229900,guanylate binding protein 7,Gbp7,9830147J24Rik,10090,MGI:2444421
+GCNT2,14538,"glucosaminyl (N-acetyl) transferase 2, I-branching enzyme",Gcnt2,"5330430K10Rik, IGnT, IGnTA, IGnTB, IGnTC",10090,MGI:1100870
+GDF6,242316,growth differentiation factor 6,Gdf6,"BMP-13, BMP13, GDF16",10090,MGI:95689
+GJA1,14609,"gap junction protein, alpha 1",Gja1,"AU042049, AW546267, Cnx43, Cx43, Cx43alpha1",10090,MGI:95713
+GJB3,14620,"gap junction protein, beta 3",Gjb3,"Cnx31, Cx31, Cxnc, D4Wsu144e, Gjb-3",10090,MGI:95721
+GLIPR2,384009,GLI pathogenesis-related 2,Glipr2,"5730414A08Rik, C77180, GAPR-1",10090,MGI:1917770
+GLIS3,226075,GLIS family zinc finger 3,Glis3,"4833409N03Rik, E330013K21Rik",10090,MGI:2444289
+GLUL,14645,glutamate-ammonia ligase (glutamine synthetase),Glul,"GS, Glns",10090,MGI:95739
+GM11110,100169874,predicted gene 11110,Gm11110,,10090,MGI:3779362
+GM11627,100040792,predicted gene 11627,Gm11627,,10090,MGI:3650659
+GM13230,,predicted gene 13230,Gm13230,,10090,
+GM13431,100504593,predicted gene 13431,Gm13431,,10090,MGI:3650776
+GM13551,100504666,predicted gene 13551,Gm13551,,10090,MGI:3650818
+GM13688,624223,predicted gene 13688,Gm13688,,10090,MGI:3652062
+GM15408,100503307,predicted gene 15408,Gm15408,,10090,MGI:3705101
+GM15675,105246705,predicted gene 15675,Gm15675,,10090,MGI:3783117
+GM15983,115488672,predicted gene 15983,Gm15983,,10090,MGI:3805549
+GM16026,101056250,predicted pseudogene 16026,Gm16026,,10090,MGI:3783243
+GM16485,791396,predicted gene 16485,Gm16485,,10090,MGI:3642771
+GM16505,100039182,predicted gene 16505,Gm16505,,10090,MGI:3642261
+GM16793,100504714,"predicted gene, 16793",Gm16793,,10090,MGI:4439717
+GM19786,100503590,"predicted gene, 19786",Gm19786,,10090,MGI:5011971
+GM20559,330256,"predicted gene, 20559",Gm20559,9530028C05,10090,MGI:5295666
+GM2619,108167347,component of Sp100-rs-like,Gm2619,100040135,10090,MGI:3780787
+GM28818,102632274,predicted gene 28818,Gm28818,,10090,MGI:5579524
+GM28875,,predicted gene 28875,Gm28875,,10090,
+GM29684,628062,"predicted gene, 29684",Gm29684,,10090,MGI:5588843
+GM32219,102634692,"predicted gene, 32219",Gm32219,,10090,MGI:5591378
+GM32443,102634994,"predicted gene, 32443",Gm32443,,10090,MGI:5591602
+GM33091,102635855,"predicted gene, 33091",Gm33091,,10090,MGI:5592250
+GM34030,102637146,"predicted gene, 34030",Gm34030,"Gm45357, Shn",10090,MGI:5593189
+GM36377,102640266,"predicted gene, 36377",Gm36377,,10090,MGI:5595536
+GM3654,102631555,predicted gene 3654,Gm3654,100042083,10090,MGI:3781830
+GM37264,,"predicted gene, 37264",Gm37264,,10090,
+GM3912,100042577,predicted gene 3912,Gm3912,,10090,MGI:3782085
+GM43197,,predicted gene 43197,Gm43197,,10090,
+GM45351,72716,predicted gene 45351,Gm45351,"AA683836, Gm4082",10090,MGI:5791187
+GM46339,108167986,"predicted gene, 46339",Gm46339,,10090,MGI:5825976
+GM47572,,"predicted gene, 47572",Gm47572,,10090,
+GM48042,,"predicted gene, 48042",Gm48042,,10090,
+GM48277,115487143,"predicted gene, 48277",Gm48277,,10090,MGI:6097706
+GM48874,,"predicted gene, 48874",Gm48874,,10090,
+GM49329,,"predicted gene, 49329",Gm49329,,10090,
+GM49330,,"predicted gene, 49330",Gm49330,,10090,
+GM5784,544848,predicted gene 5784,Gm5784,"EG544848, Gm29737",10090,MGI:3647969
+GM5873,545826,farnesyl diphosphate synthetase pseudogene,Gm5873,EG545826,10090,MGI:3648385
+GM5953,546524,predicted gene 5953,Gm5953,EG546524,10090,MGI:3647171
+GM6277,621998,predicted gene 6277,Gm6277,,10090,MGI:3779583
+GM7804,665819,ribosomal protein SA pseudogene,Gm7804,EG665819,10090,MGI:3643373
+GM8909,667977,predicted gene 8909,Gm8909,"EG667977, H2-Tw5l, H2-gs17",10090,MGI:3704134
+GPBAR1,227289,G protein-coupled bile acid receptor 1,Gpbar1,"BG37, GPCR, GPR131, M-BAR, TGR5",10090,MGI:2653863
+GPC1,14733,glypican 1,Gpc1,AI462976,10090,MGI:1194891
+GPHN,268566,gephyrin,Gphn,"5730552E08Rik, AI662856, BC027112, C230040D23, GPH",10090,MGI:109602
+GPR142,217302,G protein-coupled receptor 142,Gpr142,PGR2,10090,MGI:2668437
+GPR155,68526,G protein-coupled receptor 155,Gpr155,"1110017O10Rik, DEPDC3, F730029F15Rik, PGR22",10090,MGI:1915776
+GPR39,71111,G protein-coupled receptor 39,Gpr39,4933415E13Rik,10090,MGI:1918361
+GPR68,238377,G protein-coupled receptor 68,Gpr68,"BB131428, Ogr1",10090,MGI:2441763
+GPRC5C,70355,"G protein-coupled receptor, family C, group 5, member C",Gprc5c,"1110028I06Rik, 3200002M13Rik, Raig3",10090,MGI:1917605
+GPRIN3,243385,GPRIN family member 3,Gprin3,"C030038J10Rik, C730021L23",10090,MGI:1924785
+GRB10,14783,growth factor receptor bound protein 10,Grb10,"5730571D09Rik, AI325020, Meg1, mKIAA0207",10090,MGI:103232
+GREB1,268527,gene regulated by estrogen in breast cancer protein,Greb1,"5730583K22Rik, 9130004E13, AF180470, AU023194, mKIAA0575",10090,MGI:2149712
+GRIA4,14802,"glutamate receptor, ionotropic, AMPA4 (alpha 4)",Gria4,"GluA4, GluR-D, Glur-4, Glur4, Gluralpha4",10090,MGI:95811
+GSDME,54722,gasdermin E,Gsdme,"2310037D07Rik, 4932441K13Rik, Dfna5, Dfna5h, EG14210",10090,MGI:1889850
+GSPT2,14853,G1 to S phase transition 2,Gspt2,,10090,MGI:1316727
+GUCY1A1,60596,"guanylate cyclase 1, soluble, alpha 1",Gucy1a1,"1200016O07Rik, GCS-alpha-1, GCS-alpha-3, Gucy1a3, sGC-alpha1",10090,MGI:1926562
+GM4070,100042856,"GTPase, very large interferon inducible, family member 2",Gvin2,"Gm4070, VLIG-1",10090,MGI:3782245
+H2-D1,14964,"histocompatibility 2, D region locus 1",H2-D1,"H-2D, H2-D, H2-K1",10090,MGI:95896
+H2-K1,14972,"histocompatibility 2, K1, K region",H2-K1,"H-2K, H-2K(d), H2-D1, H2-K, K-f",10090,MGI:95904
+H2-M3,14991,"histocompatibility 2, M region locus 3",H2-M3,"H-2M3, Hmt, M3a, MuprM3, MuprM301",10090,MGI:95915
+H2-Q4,15015,"histocompatibility 2, Q region locus 4",H2-Q4,"H-2Q4, H2-D1, H2-Gs10, Qa-4, Qa4",10090,MGI:95933
+H2-Q5,15016,"histocompatibility 2, Q region locus 5",H2-Q5,"H-2Q5, Qa-5, Qa5, Qat-5",10090,MGI:95934
+H2-Q6,110557,"histocompatibility 2, Q region locus 6",H2-Q6,"0610037M15Rik, H-2Q6, H2-K1, Qa-6, Qa6",10090,MGI:95935
+H2-Q7,15018,"histocompatibility 2, Q region locus 7",H2-Q7,"H-2Q7, Ped, Q9, Qa-2, Qa-7",10090,MGI:95936
+H2-T-PS,667803,"histocompatibility 2, T region locus, pseudogene",H2-T-ps,"C920025E04Rik, H2-T11",10090,MGI:2442805
+HACD4,66775,3-hydroxyacyl-CoA dehydratase 4,Hacd4,"4933428I03Rik, Hcad4, Ptplad2",10090,MGI:1914025
+HAL,15109,histidine ammonia lyase,Hal,"Hsd, his, histidase",10090,MGI:96010
+HAND2,15111,heart and neural crest derivatives expressed 2,Hand2,"AI225906, AI661148, Ehand2, Hed, Th2",10090,MGI:103580
+HAPLN4,330790,hyaluronan and proteoglycan link protein 4,Hapln4,"9330174O11, Bral2, Lpr4",10090,MGI:2679531
+HDGFL3,29877,HDGF like 3,Hdgfl3,"2700022B06Rik, HRP-3, Hdgfrp3",10090,MGI:1352760
+HEPH,15203,hephaestin,Heph,"C130006F04Rik, Cpl, mKIAA0698, sla",10090,MGI:1332240
+HEYL,56198,hairy/enhancer-of-split related with YRPW motif-like,Heyl,"Hey3, Hrt3, bHLHb33, hesr3",10090,MGI:1860511
+HHIPL1,214305,hedgehog interacting protein-like 1,Hhipl1,"1600002O04Rik, AK129450, mKIAA1822",10090,MGI:1919265
+HIVEP3,16656,human immunodeficiency virus type I enhancer binding protein 3,Hivep3,"2900056N03Rik, A130075N07, AI848000, E030045D18Rik, KBP-1",10090,MGI:106589
+HLF,217082,hepatic leukemia factor,Hlf,E230015K02Rik,10090,MGI:96108
+HMGCS1,208715,3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1,Hmgcs1,B130032C06Rik,10090,MGI:107592
+HOXA1,15394,homeobox A1,Hoxa1,"ERA1, Hox-1.6",10090,MGI:96170
+HOXA10,15395,homeobox A10,Hoxa10,"Hox-1.8, Hoxa-10",10090,MGI:96171
+HOXA3,15400,homeobox A3,Hoxa3,"Hox-1.5, Mo-10",10090,MGI:96175
+HOXA4,15401,homeobox A4,Hoxa4,"AV206827, Hox-1.4",10090,MGI:96176
+HOXA5,15402,homeobox A5,Hoxa5,Hox-1.3,10090,MGI:96177
+HOXA6,15403,homeobox A6,Hoxa6,Hox-1.2,10090,MGI:96178
+HOXA7,15404,homeobox A7,Hoxa7,"AV118143, Hox-1.1, M6",10090,MGI:96179
+HOXB13,15408,homeobox B13,Hoxb13,,10090,MGI:107730
+HOXC8,15426,homeobox C8,Hoxc8,"D130011F21Rik, Hox-3.1",10090,MGI:96198
+HOXD10,15430,homeobox D10,Hoxd10,"AI385591, AI874987, Hox-4.5, Hox-5.3",10090,MGI:96202
+HOXD11,15431,homeobox D11,Hoxd11,"E230017H14Rik, Hox-4.6, Hox-5.4, Hox-5.5",10090,MGI:96203
+HR,15460,lysine demethylase and nuclear receptor corepressor,Hr,"ALUNC, bldy, hr, rh-bmh",10090,MGI:96223
+HS3ST3B1,54710,heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1,Hs3st3b1,"3-OST-3B, 3OST3B1, 3Ost3b, AU041882, AW536289",10090,MGI:1333853
+HSD17B7,15490,hydroxysteroid (17-beta) dehydrogenase 7,Hsd17b7,"AI266814, ERG27",10090,MGI:1330808
+HSPB7,29818,"heat shock protein family, member 7 (cardiovascular)",Hspb7,"27kDa, Hsp25-2, cvHsp",10090,MGI:1352494
+HTR5B,15564,5-hydroxytryptamine (serotonin) receptor 5B,Htr5b,5-Ht5b,10090,MGI:96284
+HTRA3,78558,HtrA serine peptidase 3,Htra3,"2210021K23Rik, 9530081K03Rik, Prsp, Tasp",10090,MGI:1925808
+ICOSL,50723,icos ligand,Icosl,"AU044799, B7-H2, B7RP-1, B7h, BG071784",10090,MGI:1354701
+ID1,15901,"inhibitor of DNA binding 1, HLH protein",Id1,"AI323524, D2Wsu140e, Idb1, bHLHb24",10090,MGI:96396
+ID2,15902,inhibitor of DNA binding 2,Id2,"AI255428, C78922, Idb2, bHLHb26",10090,MGI:96397
+ID3,15903,inhibitor of DNA binding 3,Id3,"Hlh462, Idb3, bHLHb25",10090,MGI:96398
+IDI1,319554,isopentenyl-diphosphate delta isomerase,Idi1,"4832416K17Rik, IPPI1",10090,MGI:2442264
+IFI27,52668,"interferon, alpha-inducible protein 27",Ifi27,"1110013J02Rik, 2900026P10Rik, D12Ertd647e, ISG12a, Ifi27l1",10090,MGI:1277180
+IFI27L2A,76933,"interferon, alpha-inducible protein 27 like 2A",Ifi27l2a,"2310061N23Rik, Ifi27, Isg12, Isg12(b1)",10090,MGI:1924183
+IFI27L2B,217845,"interferon, alpha-inducible protein 27 like 2B",Ifi27l2b,"1810023F06Rik, ISG12(b2)",10090,MGI:1916390
+IFI44,99899,interferon-induced protein 44,Ifi44,"A430056A10Rik, AW261460, MTAP44, p44",10090,MGI:2443016
+IFIH1,71586,interferon induced with helicase C domain 1,Ifih1,"9130009C22Rik, Helicard, Hlcd, MDA5, RLR-2",10090,MGI:1918836
+IFIT1,15957,interferon-induced protein with tetratricopeptide repeats 1,Ifit1,"GARG-16, IFI-56K, ISG56, Ifi56, P56",10090,MGI:99450
+IFIT2,15958,interferon-induced protein with tetratricopeptide repeats 2,Ifit2,"AV302338, GARG-39, IFI-54K, Ifi54, P54",10090,MGI:99449
+IFIT3,15959,interferon-induced protein with tetratricopeptide repeats 3,Ifit3,"Ifi49, P49",10090,MGI:1101055
+IFIT3B,667370,interferon-induced protein with tetratricopeptide repeats 3B,Ifit3b,I830012O16Rik,10090,MGI:3698419
+IFITM3,66141,interferon induced transmembrane protein 3,Ifitm3,"1110004C05Rik, Cd225, Cdw217, DSPA2b, Fgls",10090,MGI:1913391
+IGF1,16000,insulin-like growth factor 1,Igf1,"C730016P09Rik, Igf-1, Igf-I",10090,MGI:96432
+IGFBP2,16008,insulin-like growth factor binding protein 2,Igfbp2,"AI255832, IBP-2, Igfbp-2, mIGFBP-2",10090,MGI:96437
+IGFBP4,16010,insulin-like growth factor binding protein 4,Igfbp4,"AI875747, Deb2, IBP-4, IGFBP-4",10090,MGI:96439
+IGFBP5,16011,insulin-like growth factor binding protein 5,Igfbp5,"AI256729, AW208790, IGFBP-5, IGFBP-5P",10090,MGI:96440
+IGSF9,93842,"immunoglobulin superfamily, member 9",Igsf9,"644ETD8, Dasm1, Kiaa1355-hp, NRT1, Ncaml",10090,MGI:2135283
+IGTP,16145,interferon gamma induced GTPase,Igtp,"AW558444, Irgm3",10090,MGI:107729
+IIGP1,60440,interferon inducible GTPase 1,Iigp1,"2900074L10Rik, AI046432, AW111922, Ifgga1, Iigp",10090,MGI:1926259
+IL1R1,16177,"interleukin 1 receptor, type I",Il1r1,"CD121a, CD121b, IL-1R1, IL-iR, Il1r-1",10090,MGI:96545
+IL1RAP,16180,interleukin 1 receptor accessory protein,Il1rap,"6430709H04Rik, AI255955, AV239853, IL-1RAcP",10090,MGI:104975
+IL22RA1,230828,"interleukin 22 receptor, alpha 1",Il22ra1,"9130219A07Rik, IL-22R, Il22r",10090,MGI:2663588
+IL4RA,16190,"interleukin 4 receptor, alpha",Il4ra,"CD124, Il4r",10090,MGI:105367
+INSIG1,231070,insulin induced gene 1,Insig1,"1810013C12Rik, Insig-1",10090,MGI:1916289
+MRVI1,17540,"inositol 1,4,5-triphosphate receptor associated 1",Irag1,"BB115629, Irag, Mrvi1, Ris1",10090,MGI:1338023
+IRAK3,73914,interleukin-1 receptor-associated kinase 3,Irak3,"4833428C18Rik, AI563835, IRAK-M",10090,MGI:1921164
+IRF7,54123,interferon regulatory factor 7,Irf7,,10090,MGI:1859212
+IRF9,16391,interferon regulatory factor 9,Irf9,"Irf-9, Isgf3g, p48",10090,MGI:107587
+IRGM2,54396,immunity-related GTPase family M member 2,Irgm2,"AI481100, GTPI, Ifggd2, Iigp2",10090,MGI:1926262
+IRX3,16373,Iroquois related homeobox 3,Irx3,AI894186,10090,MGI:1197522
+ISG15,100038882,ISG15 ubiquitin-like modifier,Isg15,"G1p2, IGI15, IP17, Irfp, UCRP",10090,MGI:1855694
+ISL2,104360,insulin related protein 2 (islet 2),Isl2,3110001N10Rik,10090,MGI:109156
+ISM1,319909,"isthmin 1, angiogenesis inhibitor",Ism1,"5430433G21Rik, Ism",10090,MGI:2442963
+ISOC1,66307,isochorismatase domain containing 1,Isoc1,2610034N03Rik,10090,MGI:1913557
+ITGA1,109700,integrin alpha 1,Itga1,"CD49A, E130012M19Rik, Vla1",10090,MGI:96599
+ITGA8,241226,integrin alpha 8,Itga8,AI447669,10090,MGI:109442
+ITGAL,16408,integrin alpha L,Itgal,"(p180), Cd11a, LFA-1, LFA-1A, Ly-15",10090,MGI:96606
+ITM2A,16431,integral membrane protein 2A,Itm2a,"AW108051, Bricd2a, E25, Itm2",10090,MGI:107706
+IVL,16447,involucrin,Ivl,1110019C06Rik,10090,MGI:96626
+JAK3,16453,Janus kinase 3,Jak3,"fae, wil",10090,MGI:99928
+JPH4,319984,junctophilin 4,Jph4,"9330157P13Rik, JP-4, JPHL1",10090,MGI:2443113
+JUN,16476,jun proto-oncogene,Jun,"AP-1, Junc, c-jun",10090,MGI:96646
+KALRN,545156,"kalirin, RhoGEF kinase",Kalrn,"2210407G14Rik, AV235988, DUET, E530005C20Rik, Gm539",10090,MGI:2685385
+KCNAB2,16498,"potassium voltage-gated channel, shaker-related subfamily, beta member 2",Kcnab2,"F5, I2rf5, Kcnb3, kv-beta-2",10090,MGI:109239
+KCNB1,16500,"potassium voltage gated channel, Shab-related subfamily, member 1",Kcnb1,"Kcr1-1, Kv2.1, Shab",10090,MGI:96666
+KCNT2,240776,"potassium channel, subfamily T, member 2",Kcnt2,"E330038N15Rik, Slick",10090,MGI:3036273
+KDR,16542,kinase insert domain protein receptor,Kdr,"6130401C07, Flk-1, Flk1, Krd-1, Ly73",10090,MGI:96683
+KIF26B,269152,kinesin family member 26B,Kif26b,"4832420M10, BC056349, D230039L06Rik",10090,MGI:2447076
+KLF10,21847,Kruppel-like factor 10,Klf10,"AI115143, EGR[a], Egral, Gdnfif, TIEG-1",10090,MGI:1101353
+KLHL13,67455,kelch-like 13,Klhl13,"1200009K10Rik, AI451128, Bklhd2, D130072F20Rik",10090,MGI:1914705
+KLHL29,208439,kelch-like 29,Klhl29,"A230106N14Rik, Gm68, Kbtbd9, mKIAA1921",10090,MGI:2683857
+KRT14,16664,keratin 14,Krt14,"AI626930, CK-14, K14, Krt-1.14, Krt1-14",10090,MGI:96688
+KRT9,107656,keratin 9,Krt9,"EPPK, K9, Krt1-9",10090,MGI:96696
+LAMA4,16775,"laminin, alpha 4",Lama4,,10090,MGI:109321
+LDLR,16835,low density lipoprotein receptor,Ldlr,Hlb301,10090,MGI:96765
+LDLRAD3,241576,low density lipoprotein receptor class A domain containing 3,Ldlrad3,"6430500P08, AI194318, Lrad3",10090,MGI:2138856
+LDLRAD4,52662,low density lipoprotein receptor class A domain containing 4,Ldlrad4,"8230401C20Rik, A430083H02, A430108L08Rik, C18orf1, D18Ertd653e",10090,MGI:1277150
+LGALS2,107753,"lectin, galactose-binding, soluble 2",Lgals2,"2200008F12Rik, AI324147",10090,MGI:895068
+LGALS3BP,19039,"lectin, galactoside-binding, soluble, 3 binding protein",Lgals3bp,"90K, CyCAP, MAC-2BP, Ppicap, Tango10b",10090,MGI:99554
+LGR5,14160,leucine rich repeat containing G protein coupled receptor 5,Lgr5,"FEX, Gpr49",10090,MGI:1341817
+LGR6,329252,leucine-rich repeat-containing G protein-coupled receptor 6,Lgr6,"A530037C04Rik, D830026M09",10090,MGI:2441805
+LHX1,16869,LIM homeobox protein 1,Lhx1,Lim1,10090,MGI:99783
+LHX4,16872,LIM homeobox protein 4,Lhx4,"A330062J17Rik, Gsh-4, Gsh4",10090,MGI:101776
+LINGO1,235402,leucine rich repeat and Ig domain containing 1,Lingo1,"4930471K13Rik, AV148400, LERN1, LINGO-1, Lrrn6a",10090,MGI:1915522
+LIPG,16891,"lipase, endothelial",Lipg,"3110013K01Rik, EL, lipase, mEDL",10090,MGI:1341803
+LMCD1,30937,LIM and cysteine-rich domains 1,Lmcd1,"AW455500, AW553074, dyxin",10090,MGI:1353635
+LOX,16948,lysyl oxidase,Lox,"AI893619, TSC-160, rrg",10090,MGI:96817
+LPAR1,14745,lysophosphatidic acid receptor 1,Lpar1,"AI326300, Edg2, Gpcr26, Kdt2, lpA1",10090,MGI:108429
+LPCAT2,270084,lysophosphatidylcholine acyltransferase 2,Lpcat2,"1-AGPAT 11, A330042H22, Aytl1, Aytl1a, lpafat1",10090,MGI:3606214
+LPIN1,14245,lipin 1,Lpin1,"Lipin1, fld",10090,MGI:1891340
+FAM84B,399603,LRAT domain containing 1,Lratd2,"BF642811, D330050I23Rik, Fam84b",10090,MGI:3026924
+LRRC32,434215,leucine rich repeat containing 32,Lrrc32,"AI426318, D11S833Eh, D7H11S833E, EG434215, Garp",10090,MGI:93882
+LRRC8B,433926,"leucine rich repeat containing 8 family, member B",Lrrc8b,"2210408K08Rik, R75581, Ta-lrrp, mKIAA0231",10090,MGI:2141353
+LRRC8C,100604,"leucine rich repeat containing 8 family, member C",Lrrc8c,"AD158, AI326115, E430036I04Rik, fad158",10090,MGI:2140839
+LSS,16987,lanosterol synthase,Lss,"2810025N20Rik, D10Ertd116e, Osc",10090,MGI:1336155
+LTBP4,108075,latent transforming growth factor beta binding protein 4,Ltbp4,2310046A13Rik,10090,MGI:1321395
+LYNX1,23936,Ly6/neurotoxin 1,Lynx1,"AI838844, SLURP-2",10090,MGI:1345180
+MACROD2,72899,mono-ADP ribosylhydrolase 2,Macrod2,"1110033L15Rik, 2610107G07Rik, 2900006F19Rik",10090,MGI:1920149
+MAF,17132,avian musculoaponeurotic fibrosarcoma oncogene homolog,Maf,"2810401A20Rik, A230108G15Rik, AW047063, c-maf",10090,MGI:96909
+MAGEH1,75625,MAGE family member H1,Mageh1,"2010107K23Rik, APR-1, APR1",10090,MGI:1922875
+MAML2,270118,mastermind like transcriptional coactivator 2,Maml2,"5930431H10, BC032967",10090,MGI:2389460
+MAP2K6,26399,mitogen-activated protein kinase kinase 6,Map2k6,"MAPKK 6, MAPKK6, MEK6, MKK6, Prkmk6",10090,MGI:1346870
+MAP3K5,26408,mitogen-activated protein kinase kinase kinase 5,Map3k5,"7420452D20Rik, ASK, ASK1, MAPKKK5, Mekk5",10090,MGI:1346876
+MDGA1,74762,MAM domain containing glycosylphosphatidylinositol anchor 1,Mdga1,"1200011I03Rik, GPIM, Mamdc3",10090,MGI:1922012
+MEDAG,70717,mesenteric estrogen dependent adipogenesis,Medag,"6330406I15Rik, Awms3, MEDA-4, Meda4, mAWMS3",10090,MGI:1917967
+MEGF6,230971,multiple EGF-like-domains 6,Megf6,"2600001P17Rik, Egfl3",10090,MGI:1919351
+MFAP4,76293,microfibrillar-associated protein 4,Mfap4,1110007F23Rik,10090,MGI:1342276
+MFSD2A,76574,major facilitator superfamily domain containing 2A,Mfsd2a,"1700018O18Rik, Mfsd2, NLS1",10090,MGI:1923824
+MGP,17313,matrix Gla protein,Mgp,Mglap,10090,MGI:96976
+MID2,23947,midline 2,Mid2,"FXY2, Trim1",10090,MGI:1344333
+MKX,210719,mohawk homeobox,Mkx,"9430023B20Rik, Irxl1",10090,MGI:2687286
+MMP13,17386,matrix metallopeptidase 13,Mmp13,"Clg, MMP-13, Mmp1",10090,MGI:1340026
+MN1,433938,meningioma 1,Mn1,"AA003644, AA009236",10090,MGI:1261813
+MOB3B,214944,MOB kinase activator 3B,Mob3b,"8430436F23Rik, A430018A01Rik, Mobkl2b",10090,MGI:2664539
+MPZL2,14012,myelin protein zero-like 2,Mpzl2,"Eva, Eva1",10090,MGI:1289160
+MSMO1,66234,methylsterol monoxygenase 1,Msmo1,"1500001G16Rik, C78600, DESP4, ERG25, Sc4mol",10090,MGI:1913484
+MSX1,17701,msh homeobox 1,Msx1,"AA675338, AI324650, Hox-7, Hox7, Hox7.1",10090,MGI:97168
+MSX2,17702,msh homeobox 2,Msx2,"BB122635, Hox-8, Hox8, Hox8.1",10090,MGI:97169
+MTUS1,102103,mitochondrial tumor suppressor 1,Mtus1,"AI481402, ATBP135, Atip1, B430010I23Rik, B430305I03Rik",10090,MGI:2142572
+MUC16,73732,mucin 16,Muc16,"1110008I14Rik, Ca125, Gm1480, Gm21044",10090,MGI:1920982
+MVD,192156,mevalonate (diphospho) decarboxylase,Mvd,"C78718, Mpd",10090,MGI:2179327
+MX2,17858,MX dynamin-like GTPase 2,Mx2,"AI528743, Mx-2",10090,MGI:97244
+MYL7,17898,"myosin, light polypeptide 7, regulatory",Myl7,"MLC-2alpha, MLC2a, MYL2A, Mylc2a, RLC-A",10090,MGI:107495
+MYO1H,231646,myosin 1H,Myo1h,4631401O15Rik,10090,MGI:1914674
+MYOM3,242702,"myomesin family, member 3",Myom3,"8430427K15Rik, Gm434",10090,MGI:2685280
+NCF2,17970,neutrophil cytosolic factor 2,Ncf2,"NOXA2, Ncf-2, p67phox",10090,MGI:97284
+NDN,17984,"necdin, MAGE family member",Ndn,"AI528698, Peg6",10090,MGI:97290
+NDRG1,17988,N-myc downstream regulated gene 1,Ndrg1,"CAP43, CMT4D, DRG1, HMSNL, NMSL",10090,MGI:1341799
+NDRG2,29811,N-myc downstream regulated gene 2,Ndrg2,"AI182517, AU040374, Ndr2, SYLD",10090,MGI:1352498
+NDST2,17423,N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 2,Ndst2,"Mndns, NDST-2",10090,MGI:97040
+NES,18008,nestin,Nes,"AA166324, C78523, ESTM46, Ifaprc2, Marc2",10090,MGI:101784
+NETO1,246317,neuropilin (NRP) and tolloid (TLL)-like 1,Neto1,"AI851453, Btcl1, C130005O10Rik",10090,MGI:2180216
+NETO2,74513,neuropilin (NRP) and tolloid (TLL)-like 2,Neto2,"5530601C23Rik, AI854825, BTCL2",10090,MGI:1921763
+NFIX,18032,nuclear factor I/X,Nfix,"CTF, NF-I/X, NF1-X, NFI-X",10090,MGI:97311
+NHSL2,100042480,NHS-like 2,Nhsl2,"1110062M06Rik, 6430511F03, AI225852, AW488865, EG621083",10090,MGI:3645090
+NKAIN1,67149,Na+/K+ transporting ATPase interacting 1,Nkain1,"2610200G18Rik, 2810426C15Rik",10090,MGI:1914399
+NKAIN2,432450,Na+/K+ transporting ATPase interacting 2,Nkain2,"6330571D19Rik, AW455467, Tcba1",10090,MGI:1923447
+NKD1,93960,naked cuticle 1,Nkd1,"2810434J10Rik, 9030215G15Rik, Nkd",10090,MGI:2135954
+NLRC5,434341,"NLR family, CARD domain containing 5",Nlrc5,"AI451557, AK220210, NOD27",10090,MGI:3612191
+NMNAT2,226518,nicotinamide nucleotide adenylyltransferase 2,Nmnat2,"AI843915, D030041I09Rik, PNAT1, PNAT2",10090,MGI:2444155
+NOTUM,77583,notum palmitoleoyl-protein carboxylesterase,Notum,5730593N15Rik,10090,MGI:1924833
+NPHP4,260305,nephronophthisis 4 (juvenile) homolog (human),Nphp4,"4930564O18Rik, nmf192",10090,MGI:2384210
+NR4A3,18124,"nuclear receptor subfamily 4, group A, member 3",Nr4a3,"AI573420, CHN, CSMF, MINOR, NOR-1",10090,MGI:1352457
+NSDHL,18194,NAD(P) dependent steroid dehydrogenase-like,Nsdhl,"AI747449, Bpa, H105E3, Str, XAP104",10090,MGI:1099438
+NSG1,18196,neuron specific gene family member 1,Nsg1,"Neep21, m234, p21",10090,MGI:109149
+NUDT7,67528,nudix (nucleoside diphosphate linked moiety X)-type motif 7,Nudt7,"1300007B24Rik, 2210404C19Rik",10090,MGI:1914778
+NXPE4,244853,"neurexophilin and PC-esterase domain family, member 4",Nxpe4,"C130036J11, D930028F11Rik, Fam55d",10090,MGI:1924792
+NXPH1,18231,neurexophilin 1,Nxph1,C130005L03Rik,10090,MGI:107492
+OAS1A,246730,2'-5' oligoadenylate synthetase 1A,Oas1a,L3,10090,MGI:2180860
+OAS1B,23961,2'-5' oligoadenylate synthetase 1B,Oas1b,"Flv, L1, Mmu-L1, Oas1, Oias-2",10090,MGI:97430
+OAS1C,114643,2'-5' oligoadenylate synthetase 1C,Oas1c,"Oasl2, Oasl5",10090,MGI:2149633
+OAS1G,23960,2'-5' oligoadenylate synthetase 1G,Oas1g,"AI449562, L2, Mmu-L, Mmu-L2, Oas1b",10090,MGI:97429
+OAS2,246728,2'-5' oligoadenylate synthetase 2,Oas2,Oasl11,10090,MGI:2180852
+OASL1,231655,2'-5' oligoadenylate synthetase-like 1,Oasl1,"7530414C13Rik, oasl9",10090,MGI:2180849
+OASL2,23962,2'-5' oligoadenylate synthetase-like 2,Oasl2,"M1204, Mmu-OASL, Oasl",10090,MGI:1344390
+RNF219,72486,ORC ubiquitin ligase 1,Obi1,"2610206B13Rik, 2810449K13Rik, AI451544, Obl1, Rnf219",10090,MGI:1919736
+OLFM1,56177,olfactomedin 1,Olfm1,"AMY, AW742568, Noe1, OlfA, Pancortin",10090,MGI:1860437
+OPRD1,18386,"opioid receptor, delta 1",Oprd1,"DOR, DOR-1, Nbor, mDOR",10090,MGI:97438
+OLFR1033,258571,olfactory receptor family 5 subfamily M member 3B,Or5m3b,"MOR199-2, Olfr1033",10090,MGI:3030867
+P4HA2,18452,"procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha II polypeptide",P4ha2,"AA407196, C76437, P4hl",10090,MGI:894286
+PABPC4L,241989,"poly(A) binding protein, cytoplasmic 4-like",Pabpc4l,"C330050A14Rik, EG241989",10090,MGI:3643087
+PALLD,72333,"palladin, cytoskeletal associated protein",Palld,"2410003B16Rik, 6030492A02",10090,MGI:1919583
+PALMD,114301,palmdelphin,Palmd,"4631423C22Rik, PALML",10090,MGI:2148896
+MPP6,56524,"protein associated with LIN7 2, MAGUK family member",Pals2,"Mpp6, P55t",10090,MGI:1927340
+PANX1,55991,pannexin 1,Panx1,AI847747,10090,MGI:1860055
+PAPSS2,23972,3'-phosphoadenosine 5'-phosphosulfate synthase 2,Papss2,"1810018P12Rik, AI159688, AtpsU2, Atpsk2, Sk2",10090,MGI:1330223
+PARP14,547253,"poly (ADP-ribose) polymerase family, member 14",Parp14,"1600029O10Rik, ARTD8, BC021340, CoaSt6, mKIAA1268",10090,MGI:1919489
+PARP9,80285,"poly (ADP-ribose) polymerase family, member 9",Parp9,"ARTD9, AW214463, BC003281, Bagl, Bal",10090,MGI:1933117
+PARVB,170736,"parvin, beta",Parvb,"AI595373, AW742462, D15Gsk1, affixin",10090,MGI:2153063
+PCBP3,59093,poly(rC) binding protein 3,Pcbp3,AlphaCP-3,10090,MGI:1890470
+PCDH11X,245578,protocadherin 11 X-linked,Pcdh11x,"PCDHX, PCDHX11, Pcdh11",10090,MGI:2442849
+PCDH18,73173,protocadherin 18,Pcdh18,"3110038E07Rik, BB095589, PCDH68L",10090,MGI:1920423
+PCDH19,279653,protocadherin 19,Pcdh19,"B530002L05Rik, Gm717, mKIAA1313",10090,MGI:2685563
+PCDHB14,93885,protocadherin beta 14,Pcdhb14,"2210006M07Rik, Pcdhb17, PcdhbN",10090,MGI:2136749
+PCDHB17,93888,protocadherin beta 17,Pcdhb17,"Pcdhb16, PcdhbQ, mKIAA1621",10090,MGI:2136754
+PCDHB18,93889,protocadherin beta 18,Pcdhb18,"Pcdhb9, PcdhbR",10090,MGI:2136756
+PCDHB20,93891,protocadherin beta 20,Pcdhb20,"Pcdhb14, PcdhbT",10090,MGI:2136758
+PCDHB21,93892,protocadherin beta 21,Pcdhb21,"Pcdhb18, PcdhbU",10090,MGI:2136759
+PCDHGC3,93706,"protocadherin gamma subfamily C, 3",Pcdhgc3,"PC43, Pcdh2",10090,MGI:1935201
+PCDHGC5,93708,"protocadherin gamma subfamily C, 5",Pcdhgc5,,10090,MGI:1935205
+PCSK9,100102,proprotein convertase subtilisin/kexin type 9,Pcsk9,"AI415265, AI747682, FH3, HCHOLA3, Narc1",10090,MGI:2140260
+PCYT1B,236899,"phosphate cytidylyltransferase 1, choline, beta isoform",Pcyt1b,"AW045697, CTTbeta",10090,MGI:2147987
+PDE8A,18584,phosphodiesterase 8A,Pde8a,"AI551852, Pde8",10090,MGI:1277116
+PDGFRA,18595,"platelet derived growth factor receptor, alpha polypeptide",Pdgfra,"AI115593, CD140a, Pdgfr-2",10090,MGI:97530
+PDK1,228026,"pyruvate dehydrogenase kinase, isoenzyme 1",Pdk1,"B830012B01, D530020C15Rik",10090,MGI:1926119
+PEAR1,73182,platelet endothelial aggregation receptor 1,Pear1,"3110045G13Rik, Jedi-1, Megf12",10090,MGI:1920432
+PFKP,56421,"phosphofructokinase, platelet",Pfkp,"1200015H23Rik, 9330125N24Rik, ATP-PFK, PFK-C, PFK-P",10090,MGI:1891833
+PGM2L1,70974,phosphoglucomutase 2-like 1,Pgm2l1,"4931406N15Rik, AI553438, BM32A",10090,MGI:1918224
+PGR,18667,progesterone receptor,Pgr,"9930019P03Rik, BB114106, NR3C3, PR, PR-A",10090,MGI:97567
+PHACTR1,218194,phosphatase and actin regulator 1,Phactr1,"9630030F18Rik, Rpel1",10090,MGI:2659021
+PHF19,74016,PHD finger protein 19,Phf19,"3110009G19Rik, 3321402G02Rik",10090,MGI:1921266
+PHYHIPL,70911,phytanoyl-CoA hydroxylase interacting protein-like,Phyhipl,"4921522K17Rik, AI267048, PHY2",10090,MGI:1918161
+PKP4,227937,plakophilin 4,Pkp4,"5031422I09Rik, 9430019K17Rik, Armrp, p0071",10090,MGI:109281
+PLCL1,227120,phospholipase C-like 1,Plcl1,"C230017K02Rik, PLC-L, PLC-L1, PLCE, PLCL",10090,MGI:3036262
+PLEKHA4,69217,"pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 4",Plekha4,"2410005C22Rik, C88169, Pepp1",10090,MGI:1916467
+PLEKHA6,240753,"pleckstrin homology domain containing, family A member 6",Plekha6,"9530028L01Rik, AU042621, Pepp3",10090,MGI:2388662
+PLSCR4,235527,phospholipid scramblase 4,Plscr4,AV245873,10090,MGI:2143267
+PLXNA2,18845,plexin A2,Plxna2,"2810428A13Rik, AA589422, AW457381, OCT, PlexA2",10090,MGI:107684
+PM20D2,242377,peptidase M20 domain containing 2,Pm20d2,"Acy1l2, Gm424",10090,MGI:2685270
+PMEPA1,65112,"prostate transmembrane protein, androgen induced 1",Pmepa1,"2210418I02Rik, AW455466, Erg1.2, N4wbp4, Stag1",10090,MGI:1929600
+PODN,242608,podocan,Podn,"9430070G18, Pcan, SLRR5A",10090,MGI:2674939
+PODXL2,319655,podocalyxin-like 2,Podxl2,"D130074J02Rik, PODLX2",10090,MGI:2442488
+POU4F1,18996,"POU domain, class 4, transcription factor 1",Pou4f1,"Brn-3, Brn-3.0, Brn3, Brn3.0, Brn3a",10090,MGI:102525
+PPM1H,319468,protein phosphatase 1H (PP2C domain containing),Ppm1h,"A430075L18Rik, ARHCL1, C030002B11Rik",10090,MGI:2442087
+PPM1N,232941,"protein phosphatase, Mg2+/Mn2+ dependent, 1N (putative)",Ppm1n,"A930002H20, C79127",10090,MGI:2142330
+PPP1R12B,329251,"protein phosphatase 1, regulatory subunit 12B",Ppp1r12b,"1810037O03Rik, 9530009M10Rik, AI132431, Mypt2",10090,MGI:1916417
+PPP1R3A,140491,"protein phosphatase 1, regulatory subunit 3A",Ppp1r3a,"GM, RG1, RGL",10090,MGI:2153588
+PPP1R3B,244416,"protein phosphatase 1, regulatory subunit 3B",Ppp1r3b,"6430576E21, AW821953, GL, PTG",10090,MGI:2177268
+PPP1R3D,228966,"protein phosphatase 1, regulatory subunit 3D",Ppp1r3d,"2610024M03Rik, Gm359",10090,MGI:1917664
+PRDM16,70673,PR domain containing 16,Prdm16,"5730557K01Rik, csp1, mel1",10090,MGI:1917923
+PRKAA2,108079,"protein kinase, AMP-activated, alpha 2 catalytic subunit",Prkaa2,"2310008I11Rik, A830082D05, AMPKalpha2",10090,MGI:1336173
+PRKG2,19092,"protein kinase, cGMP-dependent, type II",Prkg2,"AW212535, CGKII, Prkgr2, cGK-II",10090,MGI:108173
+PROB1,381148,proline rich basic protein 1,Prob1,Gm1614,10090,MGI:2686460
+PROKR2,246313,prokineticin receptor 2,Prokr2,"B830005M06Rik, EG-VEGRF2, Gpcr73l1, Gpr73l1, PKR2",10090,MGI:2181363
+PRRG1,546336,proline rich Gla (G-carboxyglutamic acid) 1,Prrg1,2010007L08Rik,10090,MGI:1917364
+PRRX1,18933,paired related homeobox 1,Prrx1,"A230024N07Rik, AA755424, AI385634, AI843499, K-2",10090,MGI:97712
+PSMB8,16913,"proteasome (prosome, macropain) subunit, beta type 8 (large multifunctional peptidase 7)",Psmb8,"Lmp-7, Lmp7",10090,MGI:1346527
+PSMB9,16912,"proteasome (prosome, macropain) subunit, beta type 9 (large multifunctional peptidase 2)",Psmb9,"Lmp-2, Lmp2, Ring12",10090,MGI:1346526
+PTGFRN,19221,prostaglandin F2 receptor negative regulator,Ptgfrn,"4833445A08Rik, AU042434, CD9P-1, EWI-F, FPRP",10090,MGI:1277114
+PTGS1,19224,prostaglandin-endoperoxide synthase 1,Ptgs1,"COX1, Cox-1, Cox-3, PGHS-1, PHS 1",10090,MGI:97797
+PTPN5,19259,"protein tyrosine phosphatase, non-receptor type 5",Ptpn5,Step,10090,MGI:97807
+PTPRN,19275,"protein tyrosine phosphatase, receptor type, N",Ptprn,"IA-2, mIA-A, mKIAA4064",10090,MGI:102765
+PXDN,69675,peroxidasin,Pxdn,"2310075M15Rik, C85409, E330004E07, VPO1, mKIAA0230",10090,MGI:1916925
+PYGL,110095,liver glycogen phosphorylase,Pygl,,10090,MGI:97829
+QSOX1,104009,quiescin Q6 sulfhydryl oxidase 1,Qsox1,"1300003H02Rik, QSOX, Qscn6, SOx, b2b2673Clo",10090,MGI:1330818
+RAI2,24004,retinoic acid induced 2,Rai2,3f8,10090,MGI:1344378
+RANBP17,66011,RAN binding protein 17,Ranbp17,,10090,MGI:1929706
+RASD2,75141,"RASD family, member 2",Rasd2,"4930526B11Rik, AU045414, Rhes, TEM-2, TEM2",10090,MGI:1922391
+RBM20,73713,RNA binding motif protein 20,Rbm20,"1110018J23Rik, 2010003H22Rik, AI646761",10090,MGI:1920963
+RBP1,19659,"retinol binding protein 1, cellular",Rbp1,"CRBPI, Crbp, Rbp-1",10090,MGI:97876
+RCN1,19672,reticulocalbin 1,Rcn1,Rcn,10090,MGI:104559
+RGMA,244058,repulsive guidance molecule family member A,Rgma,"BC059072, C230063O06",10090,MGI:2679262
+RGS17,56533,regulator of G-protein signaling 17,Rgs17,"6430507P11Rik, Rgsz2",10090,MGI:1927469
+RGS3,50780,regulator of G-protein signaling 3,Rgs3,"4930506N09Rik, C2PA-RGS3, C2pa, PDZ-RGS3, RGS3S",10090,MGI:1354734
+RHOB,11852,ras homolog family member B,Rhob,"AA017882, Arh6, Arhb",10090,MGI:107949
+RIN3,217835,Ras and Rab interactor 3,Rin3,"6430500K07, C86933",10090,MGI:2385708
+RNASE4,58809,"ribonuclease, RNase A family 4",Rnase4,"C730049F20Rik, Rab1",10090,MGI:1926217
+RNF217,268291,ring finger protein 217,Rnf217,"AU016819, Ibrdc1",10090,MGI:3610311
+RNF39,386454,ring finger protein 39,Rnf39,"BC038661, Gm1786, Gm1787, Gm320, LIRF",10090,MGI:2156378
+ROR1,26563,receptor tyrosine kinase-like orphan receptor 1,Ror1,"2810404D04Rik, Ntrkr1",10090,MGI:1347520
+RSAD2,58185,radical S-adenosyl methionine domain containing 2,Rsad2,"2510004L01Rik, Vig1, cig5",10090,MGI:1929628
+RTL1,353326,retrotransposon Gaglike 1,Rtl1,"6430411K18Rik, Mar, Mart1, Mor1, Peg11",10090,MGI:2656842
+RTN4RL2,269295,reticulon 4 receptor-like 2,Rtn4rl2,"Ngr2, Ngrh1, Ngrl3",10090,MGI:2669796
+RTP4,67775,receptor transporter protein 4,Rtp4,"5830458K16Rik, Ifrg28",10090,MGI:1915025
+RUNDC3B,242819,RUN domain containing 3B,Rundc3b,Gm440,10090,MGI:2685286
+S100A4,20198,S100 calcium binding protein A4,S100a4,"18A2, 42a, Capl, FSp1, Mts1",10090,MGI:1330282
+S100A6,20200,S100 calcium binding protein A6 (calcyclin),S100a6,"2A9, 5B10, CALCYCLIN, Cacy, PRA",10090,MGI:1339467
+SALL1,58198,spalt like transcription factor 1,Sall1,Msal-3,10090,MGI:1889585
+SAMD9L,209086,sterile alpha motif domain containing 9-like,Samd9l,"AA175286, ESTM25, mKIAA2005",10090,MGI:1343184
+SAP30,60406,sin3 associated polypeptide,Sap30,30kDa,10090,MGI:1929129
+SBK3,381835,"SH3 domain binding kinase family, member 3",Sbk3,"Gm1078, Sgk110",10090,MGI:2685924
+SCD1,20249,stearoyl-Coenzyme A desaturase 1,Scd1,"AA589638, AI265570, Scd, Scd-1, ab",10090,MGI:98239
+SCD2,20250,stearoyl-Coenzyme A desaturase 2,Scd2,"Mir5114, Scd-2, mir-5114, swty",10090,MGI:98240
+SCML2,107815,Scm polycomb group protein like 2,Scml2,4932420G07Rik,10090,MGI:1340042
+SEMA3A,20346,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A",Sema3a,"Hsema-I, SEMA1, SemD, Semad, coll-1",10090,MGI:107558
+SEMA5A,20356,"sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5A",Sema5a,"5930434A13, 9130201M22Rik, AI464145, Semaf, semF",10090,MGI:107556
+SEMA7A,20361,"sema domain, immunoglobulin domain (Ig), and GPI membrane anchor, (semaphorin) 7A",Sema7a,"2900057C09Rik, CDw108, H-Sema K1, H-Sema-L, M-Sema-L",10090,MGI:1306826
+SERPINA11,380780,"serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11",Serpina11,Gm895,10090,MGI:2685741
+SERPINB1A,66222,"serine (or cysteine) peptidase inhibitor, clade B, member 1a",Serpinb1a,"1190005M04Rik, AI325983, EI, EIA, ELANH2",10090,MGI:1913472
+SESN3,75747,sestrin 3,Sesn3,"5630400E15Rik, BC003348, SEST3",10090,MGI:1922997
+SETBP1,240427,SET binding protein 1,Setbp1,"C130092E12, Seb, mKIAA0437",10090,MGI:1933199
+SEZ6L,56747,seizure related 6 homolog like,Sez6l,"AI843918, AIG1, AW539724, Acig1, BSRP-B",10090,MGI:1935121
+SH3BGRL2,212531,SH3 domain binding glutamic acid-rich protein like 2,Sh3bgrl2,"A930014C21Rik, AA408038, B930089I21",10090,MGI:1915350
+SH3PXD2B,268396,SH3 and PX domains 2B,Sh3pxd2b,"G431001E03Rik, TSK4, Tks4, fad49",10090,MGI:2442062
+SHANK2,210274,SH3 and multiple ankyrin repeat domains 2,Shank2,"ProSAP1, mKIAA1022",10090,MGI:2671987
+SHANK3,58234,SH3 and multiple ankyrin repeat domains 3,Shank3,"AI841104, Spank-2, proSAP2",10090,MGI:1930016
+SIPA1L2,244668,signal-induced proliferation-associated 1 like 2,Sipa1l2,"BC058408, mKIAA1389",10090,MGI:2676970
+SIX1,20471,sine oculis-related homeobox 1,Six1,BB138287,10090,MGI:102780
+SLAMF9,98365,SLAM family member 9,Slamf9,"2310026I04Rik, AI462096, CD2F-10, CD84-H1, Cd2f10",10090,MGI:1923692
+SLC1A2,20511,"solute carrier family 1 (glial high affinity glutamate transporter), member 2",Slc1a2,"1700091C19Rik, 2900019G14Rik, AI159670, Eaat2, GLT-1",10090,MGI:101931
+SLC22A14,382113,"solute carrier family 22 (organic cation transporter), member 14",Slc22a14,Gm1128,10090,MGI:2685974
+SLC2A1,20525,"solute carrier family 2 (facilitated glucose transporter), member 1",Slc2a1,"Glut-1, Glut1, M100200, Rgsc200",10090,MGI:95755
+SLC35F1,215085,"solute carrier family 35, member F1",Slc35f1,"Duf6, E130016L02",10090,MGI:2139810
+SLC4A4,54403,"solute carrier family 4 (anion exchanger), member 4",Slc4a4,"AI835705, NBC, NBC1",10090,MGI:1927555
+SLC9A9,331004,"solute carrier family 9 (sodium/hydrogen exchanger), member 9",Slc9a9,"5730527A11Rik, 9930105B05, AI854429, Nhe9",10090,MGI:2679732
+SLCO2A1,24059,"solute carrier organic anion transporter family, member 2a1",Slco2a1,"2310021C19Rik, Pgt, Slc21a2",10090,MGI:1346021
+SLFN8,276950,schlafen 8,Slfn8,mSLFN8,10090,MGI:2672859
+SLFN9,237886,schlafen 9,Slfn9,9830137M10Rik,10090,MGI:2445121
+SLIT1,20562,slit guidance ligand 1,Slit1,"Slil1, mKIAA0813",10090,MGI:1315203
+SLIT3,20564,slit guidance ligand 3,Slit3,"Slil2, Slit1, b2b2362.1Clo",10090,MGI:1315202
+SMAD1,17125,SMAD family member 1,Smad1,"AI528653, Mad1, Madh1, Madr1, Mlp1",10090,MGI:109452
+SMPD3,58994,"sphingomyelin phosphodiesterase 3, neutral",Smpd3,"4631433G07Rik, AI427456, AW537966, fro, nSMase2",10090,MGI:1927578
+SNCAIP,67847,"synuclein, alpha interacting protein (synphilin)",Sncaip,"2810407O15Rik, 4933427B05Rik, BB104594, SYPH1",10090,MGI:1915097
+SNHG18,100616095,small nucleolar RNA host gene 18,Snhg18,"0610007N19Rik, Snord123",10090,MGI:1914085
+SNPH,241727,syntaphilin,Snph,"6430515A01, AW045671, AW556958, AW743098, mKIAA0374",10090,MGI:2139270
+SNTG2,268534,"syntrophin, gamma 2",Sntg2,"2210008K22Rik, 9530013L23, BB121248, G2syn, Syn5",10090,MGI:1919541
+SOCS2,216233,suppressor of cytokine signaling 2,Socs2,"8030460M17, AI527257, AW108012, CIS2, Cish2",10090,MGI:1201787
+SOGA3,67412,SOGA family member 3,Soga3,6330407J23Rik,10090,MGI:1914662
+SOX6,20679,SRY (sex determining region Y)-box 6,Sox6,"AI987981, SOX-LZ",10090,MGI:98368
+SOX8,20681,SRY (sex determining region Y)-box 8,Sox8,,10090,MGI:98370
+SP100,20684,nuclear antigen Sp100,Sp100,A430075G10Rik,10090,MGI:109561
+SP110,109032,Sp110 nuclear body protein,Sp110,"5031415C07Rik, 52kDa, 5830484A20Rik, Ifi75, Ipr1",10090,MGI:1923364
+SPINK2,69982,"serine peptidase inhibitor, Kazal type 2",Spink2,"1700007F22Rik, AV038945, HUSI-II",10090,MGI:1917232
+SPON2,100689,"spondin 2, extracellular matrix protein",Spon2,"2310045I24Rik, AI504350, M-spondin, Mindin, Mspondin",10090,MGI:1923724
+SPRR1A,20753,small proline-rich protein 1A,Sprr1a,"AI528815, SPR1a, mSPRR1A",10090,MGI:106660
+SPRR2A2,100303744,small proline-rich protein 2A2,Sprr2a2,"Sprr2a, Sprr2a1, Sprr2a3",10090,MGI:3845026
+ST6GAL1,20440,"beta galactoside alpha 2,6 sialyltransferase 1",St6gal1,"AW742324, Siat1, St6Gal-I, St6gal, St6galI",10090,MGI:108470
+STAMBPL1,76630,STAM binding protein like 1,Stambpl1,"1700095N21Rik, 8230401J17Rik, ALMalpha, AMSH-FP",10090,MGI:1923880
+STARD13,243362,StAR-related lipid transfer (START) domain containing 13,Stard13,"DLC2, GT650",10090,MGI:2385331
+STARD4,170459,StAR-related lipid transfer (START) domain containing 4,Stard4,"4632419C16Rik, 9030213J02Rik",10090,MGI:2156764
+STBD1,52331,starch binding domain 1,Stbd1,"D530019K15Rik, D5Ertd593e",10090,MGI:1261768
+STEAP4,117167,STEAP family member 4,Steap4,"1110021O17Rik, AI481214, Tiarp, Tnfaip9",10090,MGI:1923560
+STK39,53416,serine/threonine kinase 39,Stk39,"AW227544, AW556857, DCHT, RF005, Rnl5",10090,MGI:1858416
+SULF2,72043,sulfatase 2,Sulf2,"2010004N24Rik, AU020235, MSulf-2, mKIAA1247",10090,MGI:1919293
+SUSD4,96935,sushi domain containing 4,Susd4,"AI848994, E430021N18Rik, N28096",10090,MGI:2138351
+SVIL,225115,supervillin,Svil,"AU024053, B430302E16Rik",10090,MGI:2147319
+SYNPO,104027,synaptopodin,Synpo,"9030217H17Rik, 9130229N11, 9330140I15Rik, AW046661",10090,MGI:1099446
+SYTL5,236643,synaptotagmin-like 5,Sytl5,slp5,10090,MGI:2668451
+TACR2,21337,tachykinin receptor 2,Tacr2,"Nk2r, Skr, Tac2r",10090,MGI:98477
+FAM19A5,106014,TAFA chemokine like family member 5,Tafa5,"Fam19a5, Tafa-5, Tara-5",10090,MGI:2146182
+TAGAP,72536,T cell activation Rho GTPase activating protein,Tagap,"2610315E15Rik, TRD, Tcd-1, Tcd1, Tcd1a",10090,MGI:3615484
+TAP1,21354,"transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)",Tap1,"ABC17, APT1, Abcb2, Ham-1, Ham1",10090,MGI:98483
+TAP2,21355,"transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)",Tap2,"ABC18, AI462429, APT2, Abcb3, Ham-2",10090,MGI:98484
+TBC1D10C,108995,"TBC1 domain family, member 10c",Tbc1d10c,"1810062O14Rik, AI428527",10090,MGI:1922072
+TBX15,21384,T-box 15,Tbx15,"Tbx14, Tbx8, de, mmTBx8",10090,MGI:1277234
+TBX5,21388,T-box 5,Tbx5,,10090,MGI:102541
+TCTE2,21646,t-complex-associated testis expressed 2,Tcte2,"AI429268, Tcte-2",10090,MGI:98641
+TDRD7,100121,tudor domain containing 7,Tdrd7,"5730495N10Rik, AI447470, PCTAIRE2BP",10090,MGI:2140279
+TENM3,23965,teneurin transmembrane protein 3,Tenm3,"2610100B16Rik, Odz1, Odz3, Ten-m3, mKIAA1455",10090,MGI:1345183
+TEX45,76406,testis expressed 45,Tex45,1700019B03Rik,10090,MGI:1923656
+TGFB2,21808,"transforming growth factor, beta 2",Tgfb2,"BB105277, Tgf-beta2, Tgfb-2",10090,MGI:98726
+TGFBR2,21813,"transforming growth factor, beta receptor II",Tgfbr2,"1110020H15Rik, AU042018, DNIIR, RIIDN, TBR-II",10090,MGI:98729
+TGM2,21817,"transglutaminase 2, C polypeptide",Tgm2,"G[a]h, TG2, TGase2, tTG, tTGas",10090,MGI:98731
+TGTP2,100039796,T cell specific GTPase 2,Tgtp2,TGTP,10090,MGI:3710083
+THBS2,21826,thrombospondin 2,Thbs2,"TSP2, Thbs-2",10090,MGI:98738
+THBS3,21827,thrombospondin 3,Thbs3,"TSP3, Thbs-3",10090,MGI:98739
+TLN2,70549,talin 2,Tln2,"5730421P04Rik, AI507121, AI787438, AL118320, mKIAA0320",10090,MGI:1917799
+TLR3,142980,toll-like receptor 3,Tlr3,AI957183,10090,MGI:2156367
+TLR5,53791,toll-like receptor 5,Tlr5,,10090,MGI:1858171
+TLR7,170743,toll-like receptor 7,Tlr7,,10090,MGI:2176882
+TM4SF1,17112,transmembrane 4 superfamily member 1,Tm4sf1,"L6, M3s1",10090,MGI:104678
+TMCO6,71983,transmembrane and coiled-coil domains 6,Tmco6,2410015B03Rik,10090,MGI:1919233
+TMEFF2,56363,transmembrane protein with EGF-like and two follistatin-like domains 2,Tmeff2,"4832418D20Rik, 7630402F16Rik, TR-2",10090,MGI:1861735
+TMEM119,231633,transmembrane protein 119,Tmem119,"AW208946, BC025600, obif",10090,MGI:2385228
+TMEM178,68027,transmembrane protein 178,Tmem178,"2810417M05Rik, Tmem178a",10090,MGI:1915277
+TMEM215,320500,transmembrane protein 215,Tmem215,A930001M12Rik,10090,MGI:2444167
+TMEM45A,56277,transmembrane protein 45a,Tmem45a,"C630002M10Rik, M32486, p19.5",10090,MGI:1913122
+TNC,21923,tenascin C,Tnc,"AI528729, C130033P17Rik, Hxb, TN, TN-C",10090,MGI:101922
+TNFAIP8L3,244882,"tumor necrosis factor, alpha-induced protein 8-like 3",Tnfaip8l3,"9930029P06Rik, Gm517",10090,MGI:2685363
+TNFSF11,21943,"tumor necrosis factor (ligand) superfamily, member 11",Tnfsf11,"Ly109l, ODF, OPGL, RANKL, Trance",10090,MGI:1100089
+TPBGL,100503386,trophoblast glycoprotein-like,Tpbgl,"EG245190, Gm4980",10090,MGI:3646425
+TRABD2B,666048,TraB domain containing 2B,Trabd2b,"Gm12824, Hkat",10090,MGI:3650152
+TRDN,76757,triadin,Trdn,"2310045H21Rik, EG432451, TDN",10090,MGI:1924007
+TRIM30A,20128,tripartite motif-containing 30A,Trim30a,"Rpt-1, Rpt1, Trim30",10090,MGI:98178
+TRIM30D,209387,tripartite motif-containing 30D,Trim30d,"AI451617, TRIM30-3, Trim79",10090,MGI:3035181
+TRPC3,22065,"transient receptor potential cation channel, subfamily C, member 3",Trpc3,"Mwk, Trcp3, Trp3, Trrp3",10090,MGI:109526
+TRPC4,22066,"transient receptor potential cation channel, subfamily C, member 4",Trpc4,"CCE1, STRPC4, Trp4, Trrp4",10090,MGI:109525
+TSC22D3,14605,"TSC22 domain family, member 3",Tsc22d3,"DIP, Dsip1, Gilz, TSC-22R, Tilz3",10090,MGI:1196284
+TXNRD3,232223,thioredoxin reductase 3,Txnrd3,"AI196535, TGR, TR2",10090,MGI:2386711
+UBE2QL1,76980,ubiquitin-conjugating enzyme E2Q family-like 1,Ube2ql1,3110006E14Rik,10090,MGI:1924230
+UGT1A7C,394432,"UDP glucuronosyltransferase 1 family, polypeptide A7C",Ugt1a7c,"A10', A13, UGT1A7, Ugt1a10",10090,MGI:3032636
+USP18,24110,ubiquitin specific peptidase 18,Usp18,"1110058H21Rik, AW047653, UBP43, Ubp15",10090,MGI:1344364
+UST,338362,uronyl-2-sulfotransferase,Ust,"D930010O20Rik, UA2OST",10090,MGI:2442406
+VASH1,238328,vasohibin 1,Vash1,"AI834978, D930046M13Rik, G630009D10Rik, TTCP 1",10090,MGI:2442543
+VGLL2,215031,vestigial like family member 2,Vgll2,"C130057C21Rik, VITO-1, Vito1, vgl-2",10090,MGI:2447460
+VLDLR,22359,very low density lipoprotein receptor,Vldlr,"AA408956, AI451093, AW047288",10090,MGI:98935
+VMN2R30,22306,"vomeronasal 2, receptor 30",Vmn2r30,V2r15,10090,MGI:1316729
+VSIG2,57276,V-set and immunoglobulin domain containing 2,Vsig2,"1190004B15Rik, 2210413P10Rik, AU040484, CTX, Ctm",10090,MGI:1928009
+VSIG8,240916,V-set and immunoglobulin domain containing 8,Vsig8,"A030011M19, EG240916",10090,MGI:3642995
+VTCN1,242122,V-set domain containing T cell activation inhibitor 1,Vtcn1,"B7h4, B7s1, B7x, BC032925",10090,MGI:3039619
+VWA3A,233813,von Willebrand factor A domain containing 3A,Vwa3a,E030013G06Rik,10090,MGI:3041229
+WHRN,73750,whirlin,Whrn,"1110035G07Rik, AW122018, AW742671, C430046P22Rik, Dfnb31",10090,MGI:2682003
+WNT11,22411,"wingless-type MMTV integration site family, member 11",Wnt11,,10090,MGI:101948
+WNT2B,22414,"wingless-type MMTV integration site family, member 2B",Wnt2b,Wnt13,10090,MGI:1261834
+WNT4,22417,"wingless-type MMTV integration site family, member 4",Wnt4,Wnt-4,10090,MGI:98957
+XAF1,327959,XIAP associated factor 1,Xaf1,Fbox39,10090,MGI:3772572
+ZBTB16,235320,zinc finger and BTB domain containing 16,Zbtb16,"AI467657, PLZF, Zfp145, lu",10090,MGI:103222
+ZBTB8B,215627,zinc finger and BTB domain containing 8b,Zbtb8b,"AV220464, BC023839, BOZF1, Zbtb8",10090,MGI:2387181
+ZFP36L1-PS,100417737,"zinc finger protein 36, C3H type-like 1, pseudogene",Zfp36l1-ps,Gm14556,10090,MGI:3707318
+ZFP422,67255,zinc finger protein 422,Zfp422,"2900028O21Rik, AU041373, KOX15, Krox-25-2, Krox-26",10090,MGI:1914505
+ZFP423,94187,zinc finger protein 423,Zfp423,"Ebfaz, Roaz, Zfp104, Znf423, ataxia1",10090,MGI:1891217
+ZFP521,225207,zinc finger protein 521,Zfp521,"B930086A16Rik, Evi3, Znf521",10090,MGI:95459
+AC115797.5,,,,,,
+AC131339.2,,,,,,
+AC163032.1,,,,,,
+BC017158,,,,,,
