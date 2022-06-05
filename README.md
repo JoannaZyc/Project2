@@ -1,7 +1,11 @@
+## The clinical TCGA data is too big to upload (even with the compressed), pls email me if you want it, I will send it to you!
+
+
+
+
 # PTK2-gene-clinical-data-analysis
 
 ### File Explanation
-## The clinical TCGA data is too big to upload, pls email me if you want it, I will send it to you!
 1. Yichi_Zhang_final.html --> the final cersion knitted file for submission. 
 2. Yichi Zhang final.ipynb --> the python code for the html file 
 3. kmf_final.csv --> The selected genes from KMF murine model, provided by Schlaepfer lab
