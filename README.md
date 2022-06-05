@@ -15,6 +15,7 @@
 7. merge_hp.csv --> clinical data genralized in a way for DESeq2 test
 8. merge_hpexpression.csv --> clinical data for DESeq2 test
 9. DESeq2 code.R --> DESeq2 test I did
+10. DESeq2-code.html --> DESeq2 test as a knitted html
 
 
 ### Scientific Question: Is there any genes related with high-PTK2 expression in our data that can be used as potential research or therapeutic targets?
